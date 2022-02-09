@@ -1,22 +1,36 @@
 {
     "PERSONAL INFORMATION":
         {
-            "Add"            :   "Blk 40A Brgy. Addition Hills, Mandaluyong City",
+            "Add"               :   "Blk 40A Brgy. Addition Hills, Mandaluyong City",
             "Contact"           :   "Contact No.: 09611872272",  
             "Email"             :   "Email Address: Justennicanor@gmail.com",
-            "Date of Birth"		: 	 "April 15, 2003",
-            "Place of Birth"	:	 "Mandaluyong City",
-            "Age"			    : 	 "18 years Old",
-            "Gender"		    : 	 "Male",
-            "Civil Status"		:	 "Single",
-            "Citizenship"		:	 "Filipino",
-            "Height"		    :	 "5'6",
-            "Weight"			: 	 "49 kg",
-            "Father`s Name"		: 	"Thomas L. Nicanor",
-            "Ocupation"		    : 	"Tinsmith",
-            "Mother`s Name"		: 	"Inerosa L. Nicanor",
-            "Occupation"		: 	"Housewife",
-            "Address"			: 	"Blk 40 Brgy. Addition Hills, Mandaluyong City"
+            "Perinfo"           :   "PERSONAL INFORMATION",
+            "Date of Birth"		: 	 "DATE OF BIRTH: April 15, 2003",
+            "Place of Birth"	:	 "PLACE OF BIRTH: Mandaluyong City",
+            "Age"			    : 	 "AGE: 18 years Old",
+            "Gender"		    : 	 "GENDER: Male",
+            "Civil Status"		:	 "CIVIL STATUS: Single",
+            "Citizenship"		:	 "CITIZENSHIP: Filipino",
+            "Height"		    :	 "HEIGHT: 5'6",
+            "Weight"			: 	 "WEIGHT: 49 kg",
+            "Father`s Name"		:    "FATHER'S NAME: Thomas L. Nicanor",
+            "Ocupation"		    : 	 "OCCUPATION: Tinsmith",
+            "Mother`s Name"		: 	 "MOTHER'S NAME: Inerosa L. Nicanor",
+            "Occupation"		: 	 "OCCUPATION: Housewife",
+            "Address"			:    "ADDRESS: Blk 40 Brgy. Addition Hills, Mandaluyong City",
+            "Education"         :    "EDUCATIONAL ATTAINMENT",
+            "Elem"              :    "ELEMENTARY:  Nueve De Pebrero Elementary School",
+            "JHigh"             :    "JUNIOR HIGHSCHOOL: Mataas na Paaralang Neptali A. Gonzales",
+            "SHigh"             :    "SENIOR HIGHSCHOOL: Mataas na Paaralang Neptali A. Gonzales (STEM)",
+            "College"           :    "COLLEGE: Polytechnic University of the Philippines (1st year)",
+            "Course"            :    "COURSE: Bachelor of Science in Computer Engineering"
+
+
+
+
+
+
+
         }
         
 
