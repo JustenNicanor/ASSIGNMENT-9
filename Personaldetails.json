@@ -4,6 +4,12 @@
             "Add"               :   "Blk 40A Brgy. Addition Hills, Mandaluyong City",
             "Contact"           :   "Contact No.: 09611872272",  
             "Email"             :   "Email Address: Justennicanor@gmail.com",
+            "Skills"            :   "SKILLS",
+            "1"                 :   "- Good Communication skills",
+            "2"                 :   "- Can Program Python",
+            "3"                 :   "- Working well in team",
+            "4"                 :   "- Enthusiast",
+            "5"                 :   "- Creative",
             "Perinfo"           :   "PERSONAL INFORMATION",
             "Date of Birth"		: 	 "DATE OF BIRTH: April 15, 2003",
             "Place of Birth"	:	 "PLACE OF BIRTH: Mandaluyong City",
@@ -23,7 +29,11 @@
             "JHigh"             :    "JUNIOR HIGHSCHOOL: Mataas na Paaralang Neptali A. Gonzales",
             "SHigh"             :    "SENIOR HIGHSCHOOL: Mataas na Paaralang Neptali A. Gonzales (STEM)",
             "College"           :    "COLLEGE: Polytechnic University of the Philippines (1st year)",
-            "Course"            :    "COURSE: Bachelor of Science in Computer Engineering"
+            "Course"            :    "COURSE: Bachelor of Science in Computer Engineering",
+            "Achievements"      :    "ACHIEVEMENTS",
+            "01"                :    "- Grade 10 (WITH HONOR)",
+            "02"                :    "- Grade 11 (WITH HONOR)",
+            "03"                :    "- Grade 12 (WITH HIGH HONOR)"
 
 
 
